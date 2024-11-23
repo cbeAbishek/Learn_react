@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Learn_react/static/css/main.28169e17.css",
+    "main.js": "/Learn_react/static/js/main.413da3d7.js",
+    "static/media/tophero.jpg": "/Learn_react/static/media/tophero.8326c7d31d957da96046.jpg",
+    "index.html": "/Learn_react/index.html",
+    "main.28169e17.css.map": "/Learn_react/static/css/main.28169e17.css.map",
+    "main.413da3d7.js.map": "/Learn_react/static/js/main.413da3d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28169e17.css",
+    "static/js/main.413da3d7.js"
+  ]
+}
